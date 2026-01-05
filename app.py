@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(page_title="Deployment Demo", page_icon="🚀")
 
-st.title("Simple Streamlit App for Deployment 🚀")
+st.title("Simple Docker App for Deployment 🚀")
 
 st.write("This is a basic app designed to demonstrate deployment workflows.")
 
